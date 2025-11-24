@@ -23,6 +23,23 @@
 
 ---
 
+## 🌐 Socials
+
+<p align="center">
+  <!-- Add your actual links in href="" below -->
+  <a href="https://www.instagram.com/thats._.avi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhijeet-soni08205">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iamabhii248@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🏅 Profile Badges & Quick Stats
 
 <p align="center">
@@ -102,31 +119,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet-soni248&repo=PROJECT_2_NAME&theme=tokyonight" alt="Project 2" />
   </a>
   -->
-</p>
-
----
-
-## 🐍 Contribution Graph Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeet-soni248/abhijeet-soni248/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="center">
-  <!-- Add your actual links in href="" below -->
-  <a href="https://www.instagram.com/thats._.avi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhijeet-soni08205">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:iamabhii248@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
