@@ -1,8 +1,7 @@
 <!-- Banner (replace the link with your own banner image if you have one) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea44f,100:238636&height=180&section=header&text=Abhijeet%20Soni%20(Avi)&fontSize=45&fontColor=ffffff&fontAlignY=65&desc=Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=90" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=180&section=header&text=Abhijeet%20Soni%20(Avi)&fontSize=45&fontColor=ffffff&fontAlignY=65&desc=Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=90" alt="Banner" />
 </p>
-
 
 <!-- Animated typing intro -->
 <p align="center">
