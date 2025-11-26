@@ -14,13 +14,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 5th semester  
-- 💻 Interested in **web development**, **cybersecurity**, and **full-stack projects**  
-- 🛡️ Curious about **secure development**, **threat analysis**, and **code hardening**  
-- 🌱 Currently learning **frontend + backend development** and improving cybersecurity fundamentals  
-- 🤝 Open to collaborating on **web apps, security tools, and hackathon projects**  
-- ⚡ Fun fact: I’ll fight bugs for hours but still smile when the build finally passes 😄  
-
+- Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 5th semester  
+- Interested in **web development**, **cybersecurity**, and **full-stack projects**  
+- Curious about **secure development**, **threat analysis**, and **code hardening**  
+- Currently learning **frontend + backend development** and improving cybersecurity fundamentals  
+- Open to collaborating on **web apps, security tools, and hackathon projects**
+  
 ---
 
 ## 🌐 Socials
