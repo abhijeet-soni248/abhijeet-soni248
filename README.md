@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 5th semester  
+- Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 6th semester  
 - Interested in **web development**, **cybersecurity**, and **full-stack projects**  
 - Curious about **secure development**, **threat analysis**, and **code hardening**  
 - Currently learning **frontend + backend development** and improving cybersecurity fundamentals  
@@ -25,7 +25,6 @@
 ## 🌐 Socials
 
 <p align="center">
-  <!-- Add your actual links in href="" below -->
   <a href="https://www.instagram.com/thats._.avi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
