@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 6th semester  
-- Interested in **web development**, **cybersecurity**, and **full-stack projects**  
+- Pursuing **B.Tech in Computer Science & Engineering (Cybersecurity)** — 7th semester  
+- Interested in **web development**, **cybersecurity**, and **networking and network security**
 - Curious about **secure development**, **threat analysis**, and **code hardening**  
 - Currently learning **frontend + backend development** and improving cybersecurity fundamentals  
 - Open to collaborating on **web apps, security tools, and hackathon projects**
